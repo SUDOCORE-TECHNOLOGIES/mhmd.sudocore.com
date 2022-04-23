@@ -1,0 +1,13 @@
+.border-primary{
+    border-style:solid;
+    border-width:2px;
+    border-color:#0D6EFD;
+    border-radius: 25px;
+}
+.navbar-drop-shadow{
+    box-shadow:0px 10px 20px #000000cc;
+
+}
+.text-dark{
+    color: black;
+}
